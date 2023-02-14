@@ -34,5 +34,4 @@ The security Controller and it's Configuration are working successffuly.
 - usernmae: admin
 - password: admin
 
-It's possible to test the application through clevercloud on this link:
-https://haditahini.cleverapps.io/swagger-ui/index.html
+
